@@ -1,0 +1,8 @@
+--find-links https://download.pytorch.org/whl/cu121
+torch
+torchaudio
+torchvision
+numpy
+Pillow
+pandas
+scikit-learn
